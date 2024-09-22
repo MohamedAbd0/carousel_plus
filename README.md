@@ -37,7 +37,7 @@ SizedBox(
 ),
 
 ```
-![ScreenShot 01](https://github.com/MohamedAbd0/carousel_plus/blob/master/screenshots/screenshot01.png?raw=true "ScreenShot 01")
+![ScreenShot 01](https://github.com/MohamedAbd0/carousel_plus/blob/main/screenshots/screenshot01.png?raw=true "ScreenShot 01")
 
 ```dart
 import 'package:carousel_plus/carousel_plus.dart';
@@ -62,7 +62,7 @@ SizedBox(
 ),
 
 ```
-![ScreenShot 02](https://github.com/MohamedAbd0/carousel_plus/blob/master/screenshots/screenshot02.png?raw=true "ScreenShot 02")
+![ScreenShot 02](https://github.com/MohamedAbd0/carousel_plus/blob/main/screenshots/screenshot02.png?raw=true "ScreenShot 02")
 
 
 ```dart
@@ -90,7 +90,7 @@ SizedBox(
 ),
 
 ```
-![ScreenShot 03](https://github.com/MohamedAbd0/carousel_plus/blob/master/screenshots/screenshot03.png?raw=true "ScreenShot 03")
+![ScreenShot 03](https://github.com/MohamedAbd0/carousel_plus/blob/main/screenshots/screenshot03.png?raw=true "ScreenShot 03")
 
 
 ```dart
@@ -121,7 +121,7 @@ SizedBox(
 ),
 
 ```
-![ScreenShot 04](https://github.com/MohamedAbd0/carousel_plus/blob/master/screenshots/screenshot04.png?raw=true "ScreenShot 04")
+![ScreenShot 04](https://github.com/MohamedAbd0/carousel_plus/blob/main/screenshots/screenshot04.png?raw=true "ScreenShot 04")
 
 
 ```dart
@@ -148,7 +148,7 @@ SizedBox(
 ),
 
 ```
-![ScreenShot 05](https://github.com/MohamedAbd0/carousel_plus/blob/master/screenshots/screenshot05.png?raw=true "ScreenShot 05")
+![ScreenShot 05](https://github.com/MohamedAbd0/carousel_plus/blob/main/screenshots/screenshot05.png?raw=true "ScreenShot 05")
 
 ## Parameters and Values
 
